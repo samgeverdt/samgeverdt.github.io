@@ -41,7 +41,7 @@ Skills
 * Coding and Programming
   * R
   * Python
-* Strongest 82kg college student in MD
+* Strongest 82kg student in MD
   * Can pick up 600 pounds upon request
 
   
