@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Geverdt's portfolio (demo)"
+title                    : "Sam Geverdt's portfolio"
 title_separator          : "-"
 name                     : &name "Sam Geverdt"
 description              : &description "something awesome."
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "samgeverdt"
   foursquare       :
   github           : "samgeverdt"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "samgeverdt"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "samgeverdt"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
