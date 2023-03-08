@@ -48,9 +48,7 @@ Skills
 Teaching
 ======
 * Substitute Science Teacher (Rockbridge Academy)
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
 Service and leadership
 ======
 * Federal Emergency Management Agency (FEMA) Corps
