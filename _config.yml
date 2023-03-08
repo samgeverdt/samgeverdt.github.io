@@ -80,14 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sam Geverdt"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "College junior with strong academic foundation in geography & environmental sciences and significant work experience in a pre-college gap year with the Federal Emergency Management Agency.
+Developed strong leadership, teamwork, logistical and communication skills working in disaster relief 
+Applied experience in analysis and modeling using ArcGIS, ARCPY, R, QGIS, Google Earth Engine, and other geospatial softwares; proficient in Microsoft Office suite; conversant in Python programming
+Strong work ethic as demonstrated by commitment to part-time employment through high school
+Conscientious self-starter eager contribute and learn in a business environment"
+  location         : "Baltimore, MD"
+  employer         : "UMBC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sgeverdt@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "github.com/samgeverdt"
   google_plus      :
   keybase          :
   instagram        :
