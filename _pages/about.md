@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a college junior with a strong academic foundation in Geographic Information Systems (GIS) and data science. In addition to my academic achievements, I have gained significant work experience in various fields, including disaster relief with the Federal Emergency Management Agency (FEMA) during my pre-college gap year and my current work with UMBC research, USDA, and FEMA.
+"I am a college junior with a strong academic foundation in Geographic Information Systems (GIS) and data science. In addition to my academic achievements, I have gained significant work experience in various fields, including disaster relief with the Federal Emergency Management Agency (FEMA) during my pre-college gap year and my current work with UMBC research, USDA, and FEMA.
 
 My work in disaster relief has allowed me to develop strong leadership, teamwork, logistical, and communication skills, which have proven valuable in all aspects of my life. I have applied my experience in analysis and modeling using ArcGIS PRO, QGIS, ENVI, and Google Earth Engine. Furthermore, I am conversant in Python and R programming languages, as well as SharePoint.
 
@@ -22,5 +22,5 @@ Before my current work, I was a part of the FEMA Corps, a competitive profession
 
 I also served as a team member in AmeriCorps National Civilian Conservation Corps after successfully completing FEMA Corps Training Institute, Academy, Basic, and Public Assistance Training. During my service, I completed 1,700+ hours of community service with a diverse team of seven members assisting in disaster recovery, and I also served as the team Transportation and Wellness Coordinator to support logistic and health needs. Lastly, I assisted the TSA K9 threat detection team with security testing at Minneapolis International Airport.
 
-When I am not working in disaster relief or conducting research, I am a competitive powerlifter who holds several state records and enjoys craft beers and good puzzles. I also substitute teach science courses, instructing students grades 5-9 in earth science, math, and geography. I am currently attending the University of Maryland, Baltimore
+When I am not working in disaster relief or conducting research, I am a competitive powerlifter who holds several state records and enjoys craft beers and good puzzles. I also substitute teach science courses, instructing students grades 5-9 in earth science, math, and geography. I am currently attending the University of Maryland, Baltimore"
 
