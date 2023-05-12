@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who am I"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a college junior with a strong academic foundation in Geographic Information Systems (GIS) and data science. In addition to my academic achievements, I have gained significant work experience in various fields, including disaster relief with the Federal Emergency Management Agency (FEMA) during my pre-college gap year and my current work with UMBC research, USDA, and FEMA.
+My work in disaster relief has allowed me to develop strong leadership, teamwork, logistical, and communication skills, which have proven valuable in all aspects of my life. I have applied my experience in analysis and modeling using ArcGIS PRO, QGIS, ENVI, and Google Earth Engine. Furthermore, I am conversant in Python and R programming languages, as well as SharePoint.
+My strong work ethic was demonstrated by my commitment to part-time employment through high school, and I am now a conscientious self-starter eager to contribute and learn in a business environment. I am also Non-Competitive Federal Hiring eligible through Americorps NCCC completion for four years after the program.
+Currently, as a UMBC Data Science Scholar, I have developed projects using R, Python, ARCpro and QGIS to analyze data within maps. I have also created and designed new data and metrics for measuring potential flood hazards around Baltimore City. Alongside professionals, I conduct research on public health, transportation, and economic growth. Additionally, I mentor information science students and assist in teaching coding and data analytics.
+During my time as a Federal Emergency Management Agency (FEMA) Student Intern, I created the Emergency Response Directorate dashboard for FEMA, which is used nationally for various regions to converse and share data. I collaborated with Emergency Response Directors across the nation to develop efficient deployment strategies and analyzed workforce data across all regions for deployment optimization. I also created a SharePoint drop site for emergency data to be stored and visualized.
+Furthermore, as a United States Department of Agriculture (USDA) FNS Data Analyst, I worked with other federal agencies to identify the best data metrics, data visualization, and geospatial tools to inform partners and the public during a disaster. I collaborated with FEMA and the Red Cross to develop an early 'damage assessment metric' at the county or more granular level to communicate to leadership in the most heavily hit areas. I also worked with the analytics sub-group on their resilience measure and to identify and create equity metrics being developed across the United States.
+Before my current work, I was a part of the FEMA Corps, a competitive professional development program for 18- to 24-year-olds providing community disaster relief. I started out as a team member before taking on added responsibility as a lead program manager. My key accomplishments include being the Program Delivery Manager DR-4442-MN (Minneapolis, MN), where I piloted and led the first team in the program dedicated to facilitating the public assistance application process, including information collection and customer service. Additionally, I was responsible for initiating and managing $300K in infrastructure grants and developed 400+ location and flood insurance maps (FIRMettes).
+I also served as a team member in AmeriCorps National Civilian Conservation Corps after successfully completing FEMA Corps Training Institute, Academy, Basic, and Public Assistance Training. During my service, I completed 1,700+ hours of community service with a diverse team of seven members assisting in disaster recovery, and I also served as the team Transportation and Wellness Coordinator to support logistic and health needs. Lastly, I assisted the TSA K9 threat detection team with security testing at Minneapolis International Airport.
+When I am not working in disaster relief or conducting research, I am a competitive powerlifter who holds several state records and enjoys craft beers and good puzzles. I also substitute teach science courses, instructing students grades 5-9 in earth science, math, and geography. I am currently attending the University of Maryland, Baltimore
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
