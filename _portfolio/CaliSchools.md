@@ -4,4 +4,4 @@ excerpt: "Schools"
 Collection: portfolio
 ---
 
-[CaliSchools](/portfolio/California%20Schools/index.html)
+[CaliSchools](/portfolio/CaliforniaSchools/index.html)
