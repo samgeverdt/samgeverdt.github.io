@@ -1,5 +1,5 @@
 ---
-title: "Cali"
+title: "California Schools"
 excerpt: "Schools"
 Collection: portfolio
 ---
